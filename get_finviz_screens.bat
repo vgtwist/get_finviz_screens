@@ -1,0 +1,1 @@
+python get_finviz_screens.py
